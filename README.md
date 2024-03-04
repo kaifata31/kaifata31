@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [UMS(University Management System)](https://ums-fe-lime.vercel.app/)
 
-- 🌱 I’m currently learning **Next Js,React Js,**
+- 🌱 I’m currently learning **Next Js,React Js,Three Js**
 
 - 💬 Ask me about **React ,JavaScript, GSAP, Tailwind CSS,Java**
 
